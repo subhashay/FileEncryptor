@@ -1,6 +1,6 @@
 # FileEncryptor
 
-This is a simple tool to ecrypt files using python cryptography library.
+This is a simple tool to encrypt/decrypt files using python cryptography library.
 
 ### Requirements:
 
