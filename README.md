@@ -17,7 +17,7 @@ This is a simple tool to ecrypt files using python cryptography library.
 ### Folder details:
 
     input: All files under this folder will be encrypted/decrypted based on operation
-    output: Output files from ecryption on decryption
+    output: Output files from ecryption or decryption
 
 
 For Encryption you either provide a 44 character key inside '*input*' folder with file name '*key.txt*'. If it is not provided, the script will generate a key and use it.
